@@ -1,6 +1,7 @@
 #필요한 파일만 올릴 수 있도록 설정
 HELP.md
 .gradle
+.DS_Store
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
